@@ -1,1 +1,1 @@
-# maya_bachelor_project
+#Code for Maya's Bachelor Project
